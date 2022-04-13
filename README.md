@@ -1,12 +1,6 @@
 # BlackJack
 A coding exercise with Python. I made a BlackJack game that you can play against computer.
 
-It has the following characteristics:
-- Module to make espresso, latte and cappuccino.
-- Coin counting (US cents)
-- Resource count
-
-
 ## Installation
 This program just requires Python 3. 
 
